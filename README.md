@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with OCR Plugin
+This is an ocr compatible software based on electron.js ,react.js and Tesseract.js.
+It can read any text image and convert it to actual text.
 
 ## Available Scripts
 
